@@ -1,0 +1,24 @@
+{
+  "name": "musicbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async-limiter": "^1.0.1",
+    "discord.js": "^11.6.4",
+    "long": "^4.0.0",
+    "opusscript": "0.0.7",
+    "prism-media": "0.0.3",
+    "safe-buffer": "^5.2.1",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "tweetnacl": "^1.0.3",
+    "ws": "^6.2.1",
+    "ytdl-core": "^4.0.2"
+  }
+}
